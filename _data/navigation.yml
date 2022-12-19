@@ -15,4 +15,4 @@ main:
     children:
       - title: "HTML"
         url: "/html"
-        category: "html"
+#        category: "html"

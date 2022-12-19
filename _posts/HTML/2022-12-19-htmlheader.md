@@ -1,3 +1,9 @@
+---
+title:  "HTML_Header"
+categories:
+  - html
+---
+
 # HTML을 시작하며
 
 Visual Studio Code(이하 VSC)라는 편집기를 이용하여  HTML을 학습할 예정이다.

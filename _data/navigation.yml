@@ -14,5 +14,5 @@ main:
   - title: "Programming"
     children:
       - title: "HTML"
-#        url: "/csharp"
-#        category: "csharp"
+        url: "/html"
+        category: "html"

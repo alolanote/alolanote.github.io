@@ -10,3 +10,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  sidebar-category:
+  - title: "💻 Programming"
+    children:
+      - title: "HTML"
+#        url: "/csharp"
+#        category: "csharp"
